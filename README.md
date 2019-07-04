@@ -26,7 +26,7 @@ SeekBar
 
 
 
-Importatn
+                                              ......Importatn  to sickBar...
 
 Android SeekBar Using Kotlin
 
