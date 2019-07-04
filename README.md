@@ -5,7 +5,7 @@ SeekBar
 1.	A seekbar is an extension of a progressbar that adds a dragable thumb.  A seekbar using  to left and right thum within changing to value.
 
 2.	Method use: - 
-# firstly seekbar call in method onCheckBarChangeListner()
+# firstly seekbar call in method onSeekkBarChangeListner()
 
 3.	 and gave me are 3 paramiters 
 
